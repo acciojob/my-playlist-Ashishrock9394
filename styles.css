@@ -1,18 +1,18 @@
 body{
-    background-color: #cccccc;
+    background-color: rgb(204, 204, 204);
 }
 .player_one{
     width: 100%;
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
 }
 a {
     margin-left: 10px;
 }
-h1, h3{
+h1, h2{
     text-align: center;
 }
 .player_two{	
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     width: 50%;
     padding: 10px;

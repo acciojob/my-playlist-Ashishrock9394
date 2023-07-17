@@ -3,12 +3,14 @@ body{
 }
 .player_one{
     width: 100%;
+	padding:5px;
+	border-radius: 1px;
     background-color: rgb(255, 255, 255);
 }
-a {
-    margin-left: 10px;
+ul.a{
+	list-style-type: none;
 }
-h1, h2{
+h2{
     text-align: center;
 }
 .player_two{	
@@ -16,6 +18,6 @@ h1, h2{
     margin: auto;
     width: 50%;
     padding: 10px;
+	border-radius:1px;
     align-items: center;
-    border: 1px solid;
 }

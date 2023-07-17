@@ -6,11 +6,11 @@ body{
 	padding:5px;
 	border: 1px solid;
 	border-radius: 1px;
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
 }
-li{
+/* li{
 	list-style-type: none;
-}
+} */
 a{
 	text-decoration-line:none;
 }
